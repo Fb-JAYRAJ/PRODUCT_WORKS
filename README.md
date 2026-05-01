@@ -12,7 +12,8 @@ This project addresses the problem that metrics alone often fail to explain *why
 *   **Full-Stack Logic:** Built with React.js and a modular business logic interpreter.
 
 ## 📸 Preview
-![Dashboard Preview](./dashboard-preview.png)
+<img width="1512" height="791" alt="Developer Productivity MVP" src="https://github.com/user-attachments/assets/8dd181da-126f-4fb3-9141-e95081de3a05" />
+
 
 ## 🛠️ Tech Stack
 *   **Frontend:** React.js, Tailwind CSS
@@ -24,5 +25,5 @@ This project addresses the problem that metrics alone often fail to explain *why
 The analytics are derived from the provided assignment workbook, specifically focusing on the performance profile of **Ava Chen**, identifying a Cycle Time bottleneck of **3.92d** vs a Lead Time of **2.88d**.
 
 ## 🔗 Links
-*   **Demo Video:** [Insert your Google Drive Link here]
-*   **Miro User Journey:** [Insert your Miro Link here]
+*   **[Demo Video Walkthrough](INSERT_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+*   **[Miro: User Journey Map](https://miro.com/welcomeonboard/QzZuN1FPVXNjSEoxeUJETytYc2E3N1Q1a2ROM0sxaWRjbDM3dDZ0MjJ1djVSTUR5ZEkwMU1PNkYzMFhhM0RUTHhaMDZSYTZsejM4VW1BYnFYSG0vb0k1Ri9GM01wdVFwRTlhMHVKNlpkVi8wWXBKTTdzNlBhNFY4ajRFNmc0L3BBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=755362805912)**
