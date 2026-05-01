@@ -1,16 +1,28 @@
-# React + Vite
+# Developer Productivity MVP: Analytics Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A focused MVP designed to bridge the gap between raw engineering metrics and actionable insights for individual contributors.
 
-Currently, two official plugins are available:
+## 🚀 Project Overview
+This project addresses the problem that metrics alone often fail to explain *why* bottlenecks occur or *what* a developer should do next. Using a specialized interpretation engine, this dashboard analyzes SDLC data to provide a "Story" and a "Recommended Action" for the user.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### ✨ Key Features
+*   **IC Insights Mode:** Specifically tailored for Individual Contributor growth.
+*   **Metric Interpretation:** Automatically analyzes Cycle Time vs. Lead Time to identify task-sizing issues.
+*   **Actionable UI:** A "one-click" transition from data observation to process improvement.
+*   **Full-Stack Logic:** Built with React.js and a modular business logic interpreter.
 
-## React Compiler
+## 📸 Preview
+![Dashboard Preview](./dashboard-preview.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+*   **Frontend:** React.js, Tailwind CSS
+*   **Charts:** Recharts
+*   **Icons:** Lucide-React
+*   **Logic:** Custom JS Interpreter Engine
 
-## Expanding the ESLint configuration
+## 📊 Data Source
+The analytics are derived from the provided assignment workbook, specifically focusing on the performance profile of **Ava Chen**, identifying a Cycle Time bottleneck of **3.92d** vs a Lead Time of **2.88d**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Links
+*   **Demo Video:** [Insert your Google Drive Link here]
+*   **Miro User Journey:** [Insert your Miro Link here]
