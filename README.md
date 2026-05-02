@@ -27,3 +27,7 @@ The analytics are derived from the provided assignment workbook, specifically fo
 ## 🔗 Links
 *   **[Demo Video Walkthrough](INSERT_YOUR_GOOGLE_DRIVE_LINK_HERE)**
 *   **[Miro: User Journey Map](https://miro.com/welcomeonboard/QzZuN1FPVXNjSEoxeUJETytYc2E3N1Q1a2ROM0sxaWRjbDM3dDZ0MjJ1djVSTUR5ZEkwMU1PNkYzMFhhM0RUTHhaMDZSYTZsejM4VW1BYnFYSG0vb0k1Ri9GM01wdVFwRTlhMHVKNlpkVi8wWXBKTTdzNlBhNFY4ajRFNmc0L3BBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=755362805912)**
+
+## 👤 Author
+**Jayraj Sawant**
+*   **[LinkedIn](https://www.linkedin.com/in/jayraj-sawant12/)**
